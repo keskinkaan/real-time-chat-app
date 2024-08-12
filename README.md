@@ -39,7 +39,7 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/keskinkaan/real-time-chat-app.git
-cd real-time-chat
+cd real-time-chat-app
 ```
 
 2. Install the dependencies:
